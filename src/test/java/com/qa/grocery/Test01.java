@@ -51,5 +51,12 @@ public class Test01 {
 	
 	
 	
+	@Test
+	public void method5() {
+		
+		
+		System.out.println("new code");
+	}
+	
 
 }
