@@ -40,6 +40,16 @@ public class Test01 {
 	}
 	
 	
+
+	@Test
+	public void method4() throws Exception{
+		
+		driver.navigate().back();
+		Thread.sleep(10000);
+		driver.close();
+	}
+	
+	
 	
 
 }
